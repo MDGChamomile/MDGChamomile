@@ -12,6 +12,6 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi).
 - [pi-subagent](https://github.com/MDGChamomile/pi-subagent) — Bounded, read-only subagent investigations for Pi.
 - [pi-jev](https://github.com/MDGChamomile/pi-jev) — Experimental, consent-gated Jev routing and public-passage reranking for Pi.
 
-## 개발 원칙
+## Development principles
 
-[하네스 최소주의: 절차는 얇게, 경계는 단단하게](PRINCIPLE.md)는 제가 중요하게 생각하고 개발할 때 기준으로 삼는 원칙입니다. 불필요한 절차는 줄이고, 안전과 권한의 경계는 분명히 지키려 합니다.
+[Harness minimalism: keep procedures lean and boundaries firm](PRINCIPLE.md) is a principle I care deeply about and use to guide my development work. I aim to avoid unnecessary process while keeping safety, authorization, and data protection boundaries clear.
