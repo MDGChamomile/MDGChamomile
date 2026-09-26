@@ -10,11 +10,11 @@
 
 - Complex procedures and harnesses introduced to compensate for earlier models' limitations can hinder the autonomy and efficiency of more capable models. Keeping interventions that a model no longer needs adds cost and debugging overhead.
 
-- Start from a minimal baseline that states the goal, essential context, success criteria, and boundaries for safety, authorization, and data protection. Add other procedures only when they address failures that recur in representative evaluations or real work, and add no more than necessary. However, use justified system-level controls to prevent high-cost or irreversible risks before incidents recur.
+- Start from a minimal baseline that states the goal, essential context, success criteria, and boundaries for safety, authorization, and data protection. Add other procedures only when they address failures that recur in representative evaluations or real work, and add no more than necessary. However, use justified system-level controls to prevent high-cost or irreversible risks without waiting for repeated incidents.
 
 - Do not make unvalidated solution procedures the default. Within the minimal baseline, leave the specific approach to the model's judgment and supply task-specific context only when needed.
 
-- Keep context injected into every session to the project's purpose and core constraints. Rather than adding instructions and examples indiscriminately, first improve the structure of tools and data; load one-off information and logs only when needed.
+- Limit context injected into every session to the project's purpose and core constraints. Rather than adding instructions and examples indiscriminately, first improve the structure of tools and data; load one-off information and logs only when needed.
 
 - Provide feedback loops that let the model check its own work directly, such as tests and execution results. For high-cost or irreversible actions, do not rely on prompts alone: enforce least privilege, isolation, and explicit approval at the system level.
 
