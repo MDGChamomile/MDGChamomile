@@ -30,7 +30,7 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 ## Contributions 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake-dark.svg?v=offwhite" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake.svg?v=offwhite" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake.svg?v=offwhite" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake-dark.svg?v=bdbdbb" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake.svg?v=bdbdbb" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake.svg?v=bdbdbb" />
 </picture>
