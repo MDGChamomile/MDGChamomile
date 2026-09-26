@@ -12,8 +12,6 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi).
 - **Start with a minimal baseline**: clear goals, essential context, success criteria, and firm safety, authorization, and data protection boundaries.
 - **Let the model choose its approach**; add procedures only when evidence from real work or evaluations shows they help.
 
-<br>
-
 ## Projects 📂
 
 - [pi-agent-kit](https://github.com/MDGChamomile/pi-agent-kit) — Curated skills and extensions for Pi.
