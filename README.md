@@ -26,3 +26,9 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 <img width="420" height="375" alt="Suggestion" src="https://github.com/user-attachments/assets/144890c6-80ca-4fe7-9cde-e5a815c43a82" />
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-contribution-grid-snake.svg" />
+</picture>
