@@ -1,4 +1,6 @@
-# Hi, I'm Riley 👋
+<img width="420" height="375" alt="Suggestion" src="https://github.com/user-attachments/assets/144890c6-80ca-4fe7-9cde-e5a815c43a82" />
+
+## Hi, I'm Riley 👋
 
 I build tools for the [Pi coding agent](https://github.com/earendil-works/pi).
 
