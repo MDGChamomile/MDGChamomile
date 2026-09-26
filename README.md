@@ -2,6 +2,7 @@
 
 I build tools for the [Pi coding agent](https://github.com/earendil-works/pi).
 
+<br>
 
 ## Development principles 📋
 
@@ -11,9 +12,11 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi).
 - **Start with a minimal baseline**: clear goals, essential context, success criteria, and firm safety, authorization, and data protection boundaries.
 - **Let the model choose its approach**; add procedures only when evidence from real work or evaluations shows they help.
 
+<br>
 
 <img width="420" height="375" alt="Suggestion" src="https://github.com/user-attachments/assets/144890c6-80ca-4fe7-9cde-e5a815c43a82" />
 
+<br>
 
 ## Projects 📂
 
