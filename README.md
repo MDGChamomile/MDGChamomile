@@ -1,6 +1,8 @@
 ### Hi, I'm Riley 🥳
 
-I build tools for the [Pi coding agent](https://github.com/earendil-works/pi).
+I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) and beyond.
+
+And i love _The Pragmatic Programmer_ 
 
 <br>
 
