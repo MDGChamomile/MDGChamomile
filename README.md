@@ -20,11 +20,15 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 - [pi-subagent](https://github.com/MDGChamomile/pi-subagent) — Bounded, read-only subagent investigations for Pi.
 - [pi-jev](https://github.com/MDGChamomile/pi-jev) — Experimental, consent-gated Jev routing and public-passage reranking for Pi.
 
-<br>
+## Stats 📊
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MDGChamomile&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=MDGChamomile&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
+
 <br>
 
 <img width="420" height="375" alt="Suggestion" src="https://github.com/user-attachments/assets/144890c6-80ca-4fe7-9cde-e5a815c43a82" />
 
+<br>
 <br>
 
 ## Contributions 🐍
