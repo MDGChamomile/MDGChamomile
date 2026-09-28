@@ -12,13 +12,20 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 - ✅ Start with a minimal baseline: clear goals, essential context, success criteria, and firm safety, authorization, and data protection boundaries.
 - ✅ Let the model choose its approach; add procedures only to address recurring failures, and retain them only when their benefits justify their costs.
 
-- ✅ _Remember, **MANAGING CONTEXT** is all you need!_ 🤔
+- ✅ _Remember, **MANAGING CONTEXT** is all you need! Leave the rest to the model._ 🤓
+
+<br>
 
 ## Projects 📂
 
 - [pi-agent-kit](https://github.com/MDGChamomile/pi-agent-kit) — Curated skills and extensions for Pi.
 - [pi-subagent](https://github.com/MDGChamomile/pi-subagent) — Bounded, read-only subagent investigations for Pi.
+
+## Archived 🗂️
+
 - [pi-jev](https://github.com/MDGChamomile/pi-jev) — Experimental, consent-gated Jev routing and public-passage reranking for Pi.
+
+<br>
 
 ## Stats 📊
 
