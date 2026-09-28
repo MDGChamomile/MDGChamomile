@@ -1,4 +1,4 @@
-# Harness minimalism: keep procedures lean and boundaries firm
+# Harness minimalism: keep context clean, procedures lean, and boundaries firm
 
 > “Every component in a harness encodes an assumption about what the model can't do on its own, and those assumptions are worth stress testing, both because they may be incorrect, and because they can quickly go stale as models improve.”
 >
@@ -8,16 +8,12 @@
 >
 > — Anthropic, [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 
-- Complex procedures and harnesses introduced to compensate for earlier models' limitations can hinder the autonomy and efficiency of more capable models. Keeping interventions that a model no longer needs adds cost and debugging overhead.
+Complex procedures and harnesses introduced to compensate for earlier models' limitations can hinder the autonomy and efficiency of more capable models. Keeping interventions that a model no longer needs adds cost and debugging overhead.
 
-- Start from a minimal baseline that states the goal, essential context, success criteria, and boundaries for safety, authorization, and data protection. Add other procedures only when they address failures that recur in representative evaluations or real work, and add no more than necessary. However, use justified system-level controls to prevent high-cost or irreversible risks without waiting for repeated incidents.
+- Keep context concise and current by removing duplication, stale information, and irrelevant material without losing necessary detail. Structure information for easy use. Keep always-loaded context to the project's purpose and core constraints; load task-specific detail only when needed. Prefer clearer tools and data over more instructions.
 
-- Do not make unvalidated solution procedures the default. Within the minimal baseline, leave the specific approach to the model's judgment and supply task-specific context only when needed.
+- Start with the goal, essential context, success criteria, and boundaries. Leave the approach to the model unless evidence warrants a prescribed procedure.
 
-- Limit context injected into every session to the project's purpose and core constraints. Rather than adding instructions and examples indiscriminately, first improve the structure of tools and data; load one-off information and logs only when needed.
+- Provide direct feedback through tests and execution results. Add procedures only to address failures that recur in representative evaluations or real work, and add no more than necessary. Adopt or retain procedures only when their benefits justify their costs against a minimal baseline with the same boundaries; remove procedures that no longer help. For provisional additions awaiting validation, define removal criteria and revisit them as evidence becomes available.
 
-- Provide feedback loops that let the model check its own work directly, such as tests and execution results. For high-cost or irreversible actions, do not rely on prompts alone: enforce least privilege, isolation, and explicit approval at the system level.
-
-- If a temporary procedure is needed before it can be measured, record the hypothesis, scope, expected benefits and costs, review date, and removal criteria. Do not present the decision as a validated conclusion.
-
-- Compare each harness procedure or mechanism against a minimal baseline that preserves the same core boundaries, and adopt or retain it only when the overall benefits justify the costs. Revisit temporary procedures at the designated time against the stated criteria. Routine operating procedures can be adjusted flexibly, but changes to core boundaries require clear justification and the harness owner's approval.
+- Preserve boundaries for safety, authorization, and data protection. For high-cost or irreversible risks, justified system-level controls need not wait for repeated failures. Do not rely on prompts alone: enforce least privilege, isolation, and explicit approval at the system level. Changes to core boundaries require clear justification and the harness owner's approval.
