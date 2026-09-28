@@ -6,12 +6,11 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 
 ## Development principles 📋
 
-[Harness minimalism: keep procedures lean and boundaries firm](PRINCIPLE.md) is a principle I care deeply about and use to guide my development work.
+[Harness minimalism](PRINCIPLE.md) is a core principle I rely on to guide my development and agent workflows:
 
 - ✅ Keep always-on context lean and bring in task-specific information only when needed.
 - ✅ Start with a minimal baseline: clear goals, essential context, success criteria, and firm safety, authorization, and data protection boundaries.
 - ✅ Let the model choose its approach; add procedures only to address recurring failures, and retain them only when their benefits justify their costs.
-
 - ✅ _Remember, **MANAGING CONTEXT** is all you need! Leave the rest to the model._ 🤓
 
 <br>
