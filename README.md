@@ -10,7 +10,7 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 
 - ✅ Keep always-on context lean and bring in task-specific information only when needed.
 - ✅ Start with a minimal baseline: clear goals, essential context, success criteria, and firm safety, authorization, and data protection boundaries.
-- ✅ Let the model choose its approach; add procedures only when evidence from real work or evaluations shows they help.
+- ✅ Let the model choose its approach; add procedures only to address recurring failures, and retain them only when their benefits justify their costs.
 
 - ✅ _Remember, **MANAGING CONTEXT** is all you need!_ 🤔
 
