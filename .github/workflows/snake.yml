@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile images
 
 on:
   schedule:
@@ -24,6 +24,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#BDBDBB
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#BDBDBB
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=MDGChamomile&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5

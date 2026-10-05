@@ -28,7 +28,7 @@ I build tools for the [Pi coding agent](https://github.com/earendil-works/pi) an
 
 ## Stats 📊
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MDGChamomile&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&cache_seconds=14400)](https://github-stats-extended.vercel.app/api?username=MDGChamomile&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&cache_seconds=14400)
+![GitHub Stats](https://raw.githubusercontent.com/MDGChamomile/MDGChamomile/output/github-stats.svg)
 
 <br>
 
