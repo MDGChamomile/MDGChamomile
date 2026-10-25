@@ -16,4 +16,6 @@ Complex procedures and harnesses introduced to compensate for earlier models' li
 
 - Provide direct feedback through tests and execution results. Add procedures only to address failures that recur in representative evaluations or real work, and add no more than necessary. Adopt or retain procedures only when their benefits justify their costs against a minimal baseline with the same boundaries; remove procedures that no longer help. For provisional additions awaiting validation, define removal criteria and revisit them as evidence becomes available.
 
+- Existing code and comments are examples future agents may follow. Fix bad patterns at their source rather than explaining them away.
+
 - Preserve boundaries for safety, authorization, and data protection. For high-cost or irreversible risks, justified system-level controls need not wait for repeated failures. Do not rely on prompts alone: enforce least privilege, isolation, and explicit approval at the system level. Changes to core boundaries require clear justification and the harness owner's approval.
