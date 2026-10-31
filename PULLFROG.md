@@ -42,8 +42,8 @@ authorization.
   authentication stores credentials in Pullfrog's encrypted secret store and
   requires the owner's consent; never copy authentication contents into
   repository files, comments, prompts, or logs.
-- In the console's Modes / Review field, paste the review instructions below,
-  followed by the repository's review focus if it has one.
+- Under **Automations → Review PRs**, paste the review instructions below into
+  **Custom instructions**, followed by the repository's review focus if it has one.
 
 ## Workflow
 
