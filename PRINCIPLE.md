@@ -4,7 +4,7 @@
 >
 > — Anthropic, [Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 
-> “Find the simplest solution possible, and only increase complexity when needed.”
+> “When building applications with LLMs, we recommend finding the simplest solution possible, and only increasing complexity when needed.”
 >
 > — Anthropic, [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 
